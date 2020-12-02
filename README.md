@@ -1,1 +1,7 @@
-# Python-Programming-Team-Note
+## Python Programming Team Notes
+
+* 알고리즘 대회를 위한 파이썬 (Python) 소스코드 저장소입니다.
+
+## Contents
+
+### Comprehension
