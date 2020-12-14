@@ -9,3 +9,8 @@ n = 3
 arr = []
 for i in range(n):
     arr.append(list(map(int, input().split())))
+
+''' 빠르게 입력 받기 '''
+import sys
+data = sys.stdin.readline().rstrip()
+print(data)
