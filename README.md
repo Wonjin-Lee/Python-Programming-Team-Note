@@ -10,3 +10,10 @@
 
 ### Input & Output
 + [Input](/InputOutput/input.py)
+
+### Sorting
++ [Python Sort Library](/Sorting/python_sort_library.py)
+
+### Permutation & Combination
++ [Permutation](/PermutationAndCombination/permutation.py)
++ [Combination](/PermutationAndCombination/combination.py)
