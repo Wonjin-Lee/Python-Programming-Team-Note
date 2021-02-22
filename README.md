@@ -13,6 +13,7 @@
 
 ### Sorting
 + [Python Sort Library](/Sorting/python_sort_library.py)
++ [Selection Sort](/Sorting/selection_sort.py)
 
 ### Permutation & Combination
 + [Permutation](/PermutationAndCombination/permutation.py)
