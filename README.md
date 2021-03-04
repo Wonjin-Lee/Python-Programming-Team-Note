@@ -21,4 +21,4 @@
 + [Combination](/PermutationAndCombination/combination.py)
 
 ### Searching
-+ [Searching](/Searching/binary_search.py)
++ [Binary Search](/Searching/binary_search.py)
