@@ -19,3 +19,6 @@
 ### Permutation & Combination
 + [Permutation](/PermutationAndCombination/permutation.py)
 + [Combination](/PermutationAndCombination/combination.py)
+
+### Searching
++ [Searching](/Searching/binary_search.py)
